@@ -9,10 +9,10 @@ import {
 } from 'react-bootstrap';
 import Tilt from 'react-parallax-tilt';
 
-import doozieLogoImg from '../../assets/doozieLogoImg.png';
-import growwLogoImg from '../../assets/growwLogoImg.png';
-import nobrokerLogoImg from '../../assets/nobrokerLogoImg.png';
-import phonepeLogoImg from '../../assets/phonepeLogoImg.png';
+import creativeemporiumLogo from '../../assets/creative_emporium.jpeg';
+import liciousLogo from '../../assets/licious.jpeg';
+import persistentLogo from '../../assets/Persistent_Systems.png';
+import techcoopersLogo from '../../assets/techcoopers.png';
 
 const HomeTwo = () => {
   return (
@@ -60,25 +60,25 @@ const HomeTwo = () => {
           <Col md={12} lg={4} className="myAvtar">
             <Tilt>
               <img
-                src={phonepeLogoImg}
+                src={creativeemporiumLogo}
                 className="img-fluid face"
                 alt="Phonepe"
                 title="PhonePe"
               />
               <img
-                src={growwLogoImg}
+                src={liciousLogo}
                 className="img-fluid face"
                 alt="Groww"
                 title="Groww"
               />
               <img
-                src={nobrokerLogoImg}
+                src={persistentLogo}
                 className="img-fluid face"
                 alt="NoBroker"
                 title="NoBroker"
               />
               <img
-                src={doozieLogoImg}
+                src={techcoopersLogo}
                 className="img-fluid face"
                 alt="Doozie"
                 title="Doozie"
