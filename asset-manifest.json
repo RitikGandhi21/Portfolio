@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/DevFolio-master1/static/css/main.1339cec4.css",
+    "main.js": "/DevFolio-master1/static/js/main.a79af1be.js",
+    "static/js/787.12b892a6.chunk.js": "/DevFolio-master1/static/js/787.12b892a6.chunk.js",
+    "static/media/creative_emporium.jpeg": "/DevFolio-master1/static/media/creative_emporium.c469d1fe2aa890105459.jpeg",
+    "static/media/main.png": "/DevFolio-master1/static/media/main.2dd9ead500c18e573807.png",
+    "static/media/RitikGandhi_CV.pdf": "/DevFolio-master1/static/media/RitikGandhi_CV.3ca786f553b7d1481d48.pdf",
+    "static/media/about.png": "/DevFolio-master1/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Agustina.woff": "/DevFolio-master1/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/Gfg.png": "/DevFolio-master1/static/media/Gfg.92d51c122c2ba6feab21.png",
+    "static/media/codeditor.jpg": "/DevFolio-master1/static/media/codeditor.584b47d4ee5664910dde.jpg",
+    "static/media/linkedin.jpg": "/DevFolio-master1/static/media/linkedin.8f6bc614d92445a49004.jpg",
+    "static/media/home-bg.jpg": "/DevFolio-master1/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/licious.jpeg": "/DevFolio-master1/static/media/licious.4d535e00cdeef3ef01f7.jpeg",
+    "static/media/heart_shape.png": "/DevFolio-master1/static/media/heart_shape.f4816c41f9934edc82db.png",
+    "static/media/Coursera.png": "/DevFolio-master1/static/media/Coursera.b9e0c5f91b3125e30930.png",
+    "static/media/quiziify.png": "/DevFolio-master1/static/media/quiziify.993d4666d8ecf05b1dde.png",
+    "static/media/Persistent_Systems.png": "/DevFolio-master1/static/media/Persistent_Systems.b73d8d180f1968ae59d8.png",
+    "static/media/tick.mp3": "/DevFolio-master1/static/media/tick.a830ac2f517b551eac3f.mp3",
+    "index.html": "/DevFolio-master1/index.html",
+    "main.1339cec4.css.map": "/DevFolio-master1/static/css/main.1339cec4.css.map",
+    "main.a79af1be.js.map": "/DevFolio-master1/static/js/main.a79af1be.js.map",
+    "787.12b892a6.chunk.js.map": "/DevFolio-master1/static/js/787.12b892a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1339cec4.css",
+    "static/js/main.a79af1be.js"
+  ]
+}
