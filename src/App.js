@@ -18,7 +18,7 @@ import HeaderComponent from './components/HeaderComponent';
 import CustomLoader from './ui/Loader';
 import About from './views/AboutPage';
 import Home from './views/HomePage';
-import Projects from './views/ProjectPage';
+// import Projects from './views/ProjectPage';
 import Resume from './views/ResumePage';
 
 const App = () => {
@@ -37,7 +37,7 @@ const App = () => {
         <HeaderComponent/>
         <Switch>
           <Route path="/" exact component={Home} />
-          <Route path="/project" component={Projects} />
+          {/* <Route path="/project" component={Projects} /> */}
           <Route path="/about" component={About} />
           <Route path="/resume" component={Resume} />
         </Switch>

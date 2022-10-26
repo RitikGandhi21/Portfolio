@@ -84,7 +84,7 @@ const HeaderComponent = () => {
                 <FaUserSecret /> About
               </NavLink>
             </NavItem>
-            <NavItem>
+            {/* <NavItem>
               <NavLink
                 as={Link}
                 to="/project"
@@ -92,7 +92,7 @@ const HeaderComponent = () => {
               >
                 <FaCodeBranch /> Projects
               </NavLink>
-            </NavItem>
+            </NavItem> */}
             <NavItem>
               <NavLink
                 as={Link}
