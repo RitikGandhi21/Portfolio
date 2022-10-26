@@ -1,0 +1,110 @@
+.resume-section {
+  position: relative;
+  padding-top: 110px;
+  padding-bottom: 30px;
+  background-image: var(--section-background-color);
+  color: white;
+}
+
+.resume {
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.resume-left {
+  padding-right: 20px;
+}
+
+.resume-right {
+  padding-left: 25px;
+}
+
+@media (max-width: 767px) {
+  .resume-left {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  .resume-right {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+.resume .resume-heading {
+  font-size: 2em;
+  font-weight: 700;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.resume .resume-item {
+  padding: 0 0 20px 25px;
+  margin-top: -2px;
+  border-left: 2px solid #8a49a8;
+  position: relative;
+}
+
+.resume-title {
+    text-align: left;
+}
+
+.resume-item h5 {
+  text-align: left;
+  margin-top: -8px;
+}
+
+.resume-item h6 {
+  text-align: left;
+  margin-top: -8px;
+}
+
+.resume .resume-item ul {
+  padding-left: 20px;
+  text-align: left;
+}
+
+.resume .resume-item ul li {
+  padding-bottom: 10px;
+  list-style: none;
+}
+
+.resume .resume-item:last-child {
+  padding-bottom: 0;
+}
+
+.resume .resume-item::before {
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border-radius: 50px;
+  left: -9px;
+  top: 5px;
+  background: #fff;
+  box-shadow: 0 0 0 8px #801f95;
+  border: 2px solid #87209e81;
+}
+
+.like-item {
+  padding-top: 10px;
+  font-size: 1.1em;
+  font-family: sans-serif;
+}
+
+.download-btn {
+  background-color: #934cce5e;
+  border-color: #934cce5e;
+  padding: 0.5rem 1.04rem;
+  border-radius: 5px;
+  line-height: 1.4;
+  transition: 0.3s ease;
+}
+
+.download-btn:hover {
+  transform: translateY(-3px);
+  background-color: #a24dd394;
+  border-color: #87209e81;
+  box-shadow: 0 8px 20px #a200ff3a;
+}
+
+
